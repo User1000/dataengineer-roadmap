@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
+                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
+                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
+                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data engineer roadmap/1. Prerequisites/Python.md"
+                "file": "Data engineer roadmap/5. Tools/SonarCude.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "a660f16d0bf9a84d",
   "lastOpenFiles": [
+    "Data engineer roadmap/1. Prerequisites/Python.md",
     "Data engineer roadmap/Readme.md",
     "Diagram.canvas",
     "Data engineer roadmap/1. Prerequisites/Git.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "SonarCude.md",
+    "Data engineer roadmap/5. Tools/SonarCude.md",
     "Data engineer roadmap/5. Tools/RabbitMQ.md",
     "Data engineer roadmap/5. Tools/Airflow.md",
-    "Data engineer roadmap/1. Prerequisites/Python.md",
     "Data engineer roadmap/6. Projects/Batch Processing.md",
     "Data engineer roadmap/7. Additional/CI CD.md",
     "Data engineer roadmap/5. Tools/Snowflake.md",
