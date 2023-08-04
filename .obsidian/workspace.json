@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagram.canvas",
+                "file": "Data engineer roadmap/7. Additional/Apache Beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagram.canvas",
+                "file": "Data engineer roadmap/7. Additional/Apache Beam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagram.canvas"
+                "file": "Data engineer roadmap/7. Additional/Apache Beam.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a660f16d0bf9a84d",
+  "active": "09d5c0154e743d75",
   "lastOpenFiles": [
+    "Data engineer roadmap/7. Additional/Apache Beam.md",
     "Data engineer roadmap/5. Tools/NoSQL.md",
     "Diagram.canvas",
     "Data engineer roadmap/1. Prerequisites/123.md",
