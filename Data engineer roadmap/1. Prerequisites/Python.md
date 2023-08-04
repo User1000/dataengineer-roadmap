@@ -6,8 +6,9 @@
 	- [100 Python exercises](https://www.udemy.com/course/python-video-workbook/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-8Qne.wTsgl6kGbJS_F2zBg&LSNPUBID=CuIbQrBnhiw&utm_source=aff-campaign&utm_medium=udemyads)
 - Advanced courses
 	- [educative](https://www.educative.io/courses/python-201-interactively-learn-advanced-concepts-in-python-3?affiliate_id=5073518643380224)
-- OOP
+- GRASP
 - [Design pattern](https://www.educative.io/courses/python-201-interactively-learn-advanced-concepts-in-python-3?affiliate_id=5073518643380224)
+- SOLID principles
 - Clean code
 - Refactoring
 - Testing
