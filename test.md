@@ -1,7 +1,7 @@
 
 # aaaa
 ```mermaid
-    graph LR;
+    graph TD;
     Product[<a  style='text-decoration: none' href='#Product'>Product</a>]
 Supplier[<a  style='text-decoration: none' href='#Supplier'>Supplier</a>]
 Component[<a  style='text-decoration: none' href='#Component'>Component</a>]
