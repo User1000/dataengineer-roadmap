@@ -31,7 +31,7 @@
 		{"type":"file","file":"Data engineer roadmap/7. Additional/Data visualization.md","id":"653085dbacc34c0c","x":-1480,"y":3666,"width":400,"height":400},
 		{"type":"file","file":"Data engineer roadmap/7. Additional/Kubernetes.md","id":"9da4ee9c02414178","x":-1000,"y":3666,"width":400,"height":400},
 		{"type":"file","file":"Data engineer roadmap/7. Additional/CI CD.md","id":"e09578fdaad4baf9","x":440,"y":3666,"width":400,"height":400},
-		{"type":"file","file":"Data engineer roadmap/5. Tools/SonarCude.md","id":"a41edacf505ccfef","x":900,"y":3666,"width":400,"height":400},
+		{"type":"file","file":"Data engineer roadmap/7. Additional/SonarCude.md","id":"a41edacf505ccfef","x":900,"y":3666,"width":400,"height":400},
 		{"id":"bb56280d879cd44f","x":-160,"y":-1000,"width":400,"height":400,"type":"file","file":"Data engineer roadmap/1. Prerequisites/Git.md"}
 	],
 	"edges":[

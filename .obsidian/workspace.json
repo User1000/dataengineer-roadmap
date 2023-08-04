@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
+                "file": "Data engineer roadmap/7. Additional/SonarCude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
+                "file": "Data engineer roadmap/7. Additional/SonarCude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data engineer roadmap/5. Tools/SonarCude.md",
+                "file": "Data engineer roadmap/7. Additional/SonarCude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data engineer roadmap/5. Tools/SonarCude.md"
+                "file": "Data engineer roadmap/7. Additional/SonarCude.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a660f16d0bf9a84d",
+  "active": "09d5c0154e743d75",
   "lastOpenFiles": [
     "Data engineer roadmap/1. Prerequisites/Python.md",
     "Data engineer roadmap/Readme.md",
@@ -154,7 +154,7 @@
     "Data engineer roadmap/1. Prerequisites/Git.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Data engineer roadmap/5. Tools/SonarCude.md",
+    "Data engineer roadmap/7. Additional/SonarCude.md",
     "Data engineer roadmap/5. Tools/RabbitMQ.md",
     "Data engineer roadmap/5. Tools/Airflow.md",
     "Data engineer roadmap/6. Projects/Batch Processing.md",
