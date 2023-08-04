@@ -1,0 +1,3 @@
+- Udemy [course](https://www.udemy.com/course/apache-kafka/)
+- Youtube [tutorial](https://www.youtube.com/watch?v=LHnlIIdVJ7c&list=PLa7VYi0yPIH1MculjFWJxs-aENPxRHHOS&index=2)
+- 

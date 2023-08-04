@@ -11,14 +11,11 @@
             "id": "a660f16d0bf9a84d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagram.canvas",
-                "viewState": {
-                  "x": 478.18639083484874,
-                  "y": 2991.65196313973,
-                  "zoom": -1.9283424975025694
-                }
+                "file": "Data engineer roadmap/Readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data engineer roadmap/7. Additional/Apache Beam.md",
+                "file": "Data engineer roadmap/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data engineer roadmap/7. Additional/Apache Beam.md",
+                "file": "Data engineer roadmap/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data engineer roadmap/7. Additional/Apache Beam.md"
+                "file": "Data engineer roadmap/Readme.md"
               }
             }
           }
@@ -149,15 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09d5c0154e743d75",
+  "active": "a660f16d0bf9a84d",
   "lastOpenFiles": [
-    "Data engineer roadmap/7. Additional/Apache Beam.md",
-    "Data engineer roadmap/5. Tools/NoSQL.md",
     "Diagram.canvas",
+    "Data engineer roadmap/Readme.md",
+    "SonarCude.md",
+    "Data engineer roadmap/7. Additional/Jenkins.md",
+    "Data engineer roadmap/5. Tools/Snowflake.md",
+    "Data engineer roadmap/7. Additional/CyberSequrity.md",
+    "Data engineer roadmap/7. Additional/Apache Beam.md",
+    "Data engineer roadmap/1. Prerequisites/Python.md",
+    "Data engineer roadmap/1. Prerequisites/Data structure and algorithms.md",
+    "Data engineer roadmap/5. Tools/NoSQL.md",
     "Data engineer roadmap/1. Prerequisites/123.md",
     "Data engineer roadmap/3. Distributed Systems/Untitled.canvas",
     "Data engineer roadmap/1. Prerequisites/SQL.md",
-    "Data engineer roadmap/1. Prerequisites/Python.md",
     "Data engineer roadmap/1. Prerequisites/Linux.md",
     "Data engineer roadmap/7. Additional/Data visualization.md",
     "Data engineer roadmap/1. Prerequisites/Untitled.canvas",
@@ -182,13 +185,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Data engineer roadmap/1. Prerequisites/1. Prerequisities.md",
-    "Data engineer roadmap/2. Data/Lake house.md",
-    "Data engineer roadmap/2. Data/Datawarehouse.md",
-    "Data engineer roadmap/2. Data/Data lake.md",
-    "Data engineer roadmap/2. Data/_Data.md",
-    "Data engineer roadmap/Linux.md",
-    "Data engineer roadmap/Prerequisities.md",
     "Data engineer roadmap/10. aaa",
     "Data engineer roadmap/3. Distributed Systems",
     "Data engineer roadmap/2. Data",
