@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08c6c9032efa2e62",
+        "id": "f5558670be5de615",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e9af6c8f64104c",
+            "id": "a660f16d0bf9a84d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data engineer roadmap.md",
-                "mode": "source",
-                "source": false
+                "file": "Diagram.canvas",
+                "viewState": {
+                  "x": 478.18639083484874,
+                  "y": 867.8054265414708,
+                  "zoom": -1.9283424975025694
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data engineer roadmap.md",
+                "file": "Diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data engineer roadmap.md",
+                "file": "Diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data engineer roadmap.md"
+                "file": "Diagram.canvas"
               }
             }
           }
@@ -146,8 +149,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1e9af6c8f64104c",
+  "active": "a660f16d0bf9a84d",
   "lastOpenFiles": [
-    "Data engineer roadmap.md"
+    "Data engineer roadmap/5. Tools/NoSQL.md",
+    "Diagram.canvas",
+    "Data engineer roadmap/1. Prerequisites/123.md",
+    "Data engineer roadmap/3. Distributed Systems/Untitled.canvas",
+    "Data engineer roadmap/1. Prerequisites/SQL.md",
+    "Data engineer roadmap/1. Prerequisites/Python.md",
+    "Data engineer roadmap/1. Prerequisites/Linux.md",
+    "Data engineer roadmap/7. Additional/Data visualization.md",
+    "Data engineer roadmap/1. Prerequisites/Untitled.canvas",
+    "Data engineer roadmap/7. Additional/ML models training and deploying.md",
+    "Data engineer roadmap/6. Projects/Realtime processing.md",
+    "Data engineer roadmap/6. Projects/Batch Processing.md",
+    "Data engineer roadmap/5. Tools/Airflow.md",
+    "Data engineer roadmap/7. Additional",
+    "Data engineer roadmap/6. Projects",
+    "Data engineer roadmap/7. Additional/Kubernetes.md",
+    "Data engineer roadmap/5. Tools/Kafka.md",
+    "Data engineer roadmap/5. Tools/Docker.md",
+    "Data engineer roadmap/5. Tools/Databricks.md",
+    "Data engineer roadmap/5. Tools",
+    "Data engineer roadmap/4. Cloud/AWS.md",
+    "Data engineer roadmap/4. Cloud/Azure.md",
+    "Data engineer roadmap/3. Distributed Systems/Hadoop.md",
+    "Data engineer roadmap/4. Cloud",
+    "Data engineer roadmap/3. Distributed Systems/Spark.md",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Data engineer roadmap/1. Prerequisites/1. Prerequisities.md",
+    "Data engineer roadmap/2. Data/Lake house.md",
+    "Data engineer roadmap/2. Data/Datawarehouse.md",
+    "Data engineer roadmap/2. Data/Data lake.md",
+    "Data engineer roadmap/2. Data/_Data.md",
+    "Data engineer roadmap/Linux.md",
+    "Data engineer roadmap/Prerequisities.md",
+    "Data engineer roadmap/10. aaa",
+    "Data engineer roadmap/3. Distributed Systems",
+    "Data engineer roadmap/2. Data",
+    "Data engineer roadmap/1. Prerequisites",
+    "Data engineer roadmap"
   ]
 }

@@ -1,0 +1,6 @@
+- Basics
+	- [W3School course](https://www.w3schools.com/python/default.asp)
+- OOP
+- Design pattern
+- Clean code
+- Refactoring

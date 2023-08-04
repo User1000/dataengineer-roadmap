@@ -1,0 +1,4 @@
+- [DBMS](https://www.tutorialspoint.com/dbms/index.htm)
+- W3School SQL [tutorial](https://www.w3schools.com/sql/)
+- [SQL hacker run](https://www.hackerrank.com/domains/sql)
+- 
