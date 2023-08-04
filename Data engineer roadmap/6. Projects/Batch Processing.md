@@ -1,2 +1,6 @@
 - [startdataengproject](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/)
-- zoocamp
+- https://github.com/DataTalksClub/data-engineering-zoomcamp
+- https://github.com/shafiab/HashtagCashtag
+- https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/
+- https://github.com/andkret/Cookbook/blob/master/sections/04-HandsOnCourse.md
+- https://www.projectpro.io/project-use-case/snowflake-real-time-data-warehouse-project-for-beginners

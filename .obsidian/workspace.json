@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data engineer roadmap/Readme.md",
+                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data engineer roadmap/Readme.md",
+                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data engineer roadmap/Readme.md",
+                "file": "Data engineer roadmap/1. Prerequisites/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data engineer roadmap/Readme.md"
+                "file": "Data engineer roadmap/1. Prerequisites/Python.md"
               }
             }
           }
@@ -148,14 +148,20 @@
   },
   "active": "a660f16d0bf9a84d",
   "lastOpenFiles": [
-    "Diagram.canvas",
     "Data engineer roadmap/Readme.md",
+    "Diagram.canvas",
+    "Data engineer roadmap/1. Prerequisites/Git.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "SonarCude.md",
-    "Data engineer roadmap/7. Additional/Jenkins.md",
+    "Data engineer roadmap/5. Tools/RabbitMQ.md",
+    "Data engineer roadmap/5. Tools/Airflow.md",
+    "Data engineer roadmap/1. Prerequisites/Python.md",
+    "Data engineer roadmap/6. Projects/Batch Processing.md",
+    "Data engineer roadmap/7. Additional/CI CD.md",
     "Data engineer roadmap/5. Tools/Snowflake.md",
     "Data engineer roadmap/7. Additional/CyberSequrity.md",
     "Data engineer roadmap/7. Additional/Apache Beam.md",
-    "Data engineer roadmap/1. Prerequisites/Python.md",
     "Data engineer roadmap/1. Prerequisites/Data structure and algorithms.md",
     "Data engineer roadmap/5. Tools/NoSQL.md",
     "Data engineer roadmap/1. Prerequisites/123.md",
@@ -166,8 +172,6 @@
     "Data engineer roadmap/1. Prerequisites/Untitled.canvas",
     "Data engineer roadmap/7. Additional/ML models training and deploying.md",
     "Data engineer roadmap/6. Projects/Realtime processing.md",
-    "Data engineer roadmap/6. Projects/Batch Processing.md",
-    "Data engineer roadmap/5. Tools/Airflow.md",
     "Data engineer roadmap/7. Additional",
     "Data engineer roadmap/6. Projects",
     "Data engineer roadmap/7. Additional/Kubernetes.md",
@@ -177,14 +181,11 @@
     "Data engineer roadmap/5. Tools",
     "Data engineer roadmap/4. Cloud/AWS.md",
     "Data engineer roadmap/4. Cloud/Azure.md",
-    "Data engineer roadmap/3. Distributed Systems/Hadoop.md",
     "Data engineer roadmap/4. Cloud",
-    "Data engineer roadmap/3. Distributed Systems/Spark.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Data engineer roadmap/10. aaa",
     "Data engineer roadmap/3. Distributed Systems",
     "Data engineer roadmap/2. Data",
